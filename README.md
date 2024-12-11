@@ -6,4 +6,4 @@ This code isn't very well written, but I don’t want to modify it...
 
 Please refer to the paper as the authoritative version. The code is relatively simple, but I modified it, and I'm not sure if the uploaded version is correct. I rarely check it and probably won't use it again.
 
-any question, email me.
+Any question, email me.
